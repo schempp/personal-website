@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "headline": "Front End Blog",
+        "topics": [
+            {
+                "id": 0,
+                "name": "Geocoding",
+                "skills": "GIS"
+            },
+            {
+                "id": 1,
+                "name": "Dimensionality Reduction",
+                "skills": "Visualization"
+            },
+            {
+                "id":2,
+                "name": "Machine Learning",
+                "skills": "Data Science"
+            }
+        ]
+    }
+]
